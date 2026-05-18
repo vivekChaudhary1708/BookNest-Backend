@@ -1,0 +1,1602 @@
+[
+  {
+    "name": "The Iron Heel",
+    "description": "A highly recommended Fiction book.",
+    "price": 230,
+    "category": "Fiction",
+    "stock": 44,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8243314-L.jpg"
+  },
+  {
+    "name": "Brood of the Witch-Queen",
+    "description": "A highly recommended Fiction book.",
+    "price": 598,
+    "category": "Fiction",
+    "stock": 45,
+    "imageUrl": "https://covers.openlibrary.org/b/id/2011286-L.jpg"
+  },
+  {
+    "name": "The Narrative of Arthur Gordon Pym",
+    "description": "A highly recommended Fiction book.",
+    "price": 426,
+    "category": "Fiction",
+    "stock": 21,
+    "imageUrl": "https://covers.openlibrary.org/b/id/7160877-L.jpg"
+  },
+  {
+    "name": "The Napoleon of Notting Hill",
+    "description": "A highly recommended Fiction book.",
+    "price": 964,
+    "category": "Fiction",
+    "stock": 43,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6980094-L.jpg"
+  },
+  {
+    "name": "Emily of New Moon",
+    "description": "A highly recommended Fiction book.",
+    "price": 1044,
+    "category": "Fiction",
+    "stock": 23,
+    "imageUrl": "https://covers.openlibrary.org/b/id/14638065-L.jpg"
+  },
+  {
+    "name": "The Vampyre",
+    "description": "A highly recommended Fiction book.",
+    "price": 872,
+    "category": "Fiction",
+    "stock": 23,
+    "imageUrl": "https://covers.openlibrary.org/b/id/4871002-L.jpg"
+  },
+  {
+    "name": "The Sea Fairies",
+    "description": "A highly recommended Fiction book.",
+    "price": 296,
+    "category": "Fiction",
+    "stock": 40,
+    "imageUrl": "https://covers.openlibrary.org/b/id/1814237-L.jpg"
+  },
+  {
+    "name": "The Enchanted Castle",
+    "description": "A highly recommended Fiction book.",
+    "price": 516,
+    "category": "Fiction",
+    "stock": 24,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6644514-L.jpg"
+  },
+  {
+    "name": "Pollyanna",
+    "description": "A highly recommended Fiction book.",
+    "price": 646,
+    "category": "Fiction",
+    "stock": 49,
+    "imageUrl": "https://covers.openlibrary.org/b/id/902113-L.jpg"
+  },
+  {
+    "name": "Игрокъ",
+    "description": "A highly recommended Fiction book.",
+    "price": 1353,
+    "category": "Fiction",
+    "stock": 45,
+    "imageUrl": "https://covers.openlibrary.org/b/id/3293339-L.jpg"
+  },
+  {
+    "name": "Lilith",
+    "description": "A highly recommended Non-Fiction book.",
+    "price": 1226,
+    "category": "Non-Fiction",
+    "stock": 48,
+    "imageUrl": "https://covers.openlibrary.org/b/id/14364546-L.jpg"
+  },
+  {
+    "name": "El túnel",
+    "description": "A highly recommended Non-Fiction book.",
+    "price": 238,
+    "category": "Non-Fiction",
+    "stock": 15,
+    "imageUrl": "https://covers.openlibrary.org/b/id/5517733-L.jpg"
+  },
+  {
+    "name": "Goodnight Moon",
+    "description": "A highly recommended Non-Fiction book.",
+    "price": 418,
+    "category": "Non-Fiction",
+    "stock": 32,
+    "imageUrl": "https://covers.openlibrary.org/b/id/35556-L.jpg"
+  },
+  {
+    "name": "The Classic Tale of the Velveteen Rabbit",
+    "description": "A highly recommended Non-Fiction book.",
+    "price": 1168,
+    "category": "Non-Fiction",
+    "stock": 40,
+    "imageUrl": "https://covers.openlibrary.org/b/id/11738076-L.jpg"
+  },
+  {
+    "name": "The Scarlet Letter",
+    "description": "A highly recommended Non-Fiction book.",
+    "price": 874,
+    "category": "Non-Fiction",
+    "stock": 48,
+    "imageUrl": "https://covers.openlibrary.org/b/id/5654516-L.jpg"
+  },
+  {
+    "name": "Jude the Obscure",
+    "description": "A highly recommended Non-Fiction book.",
+    "price": 489,
+    "category": "Non-Fiction",
+    "stock": 26,
+    "imageUrl": "https://covers.openlibrary.org/b/id/12973053-L.jpg"
+  },
+  {
+    "name": "Guess How Much I Love You",
+    "description": "A highly recommended Non-Fiction book.",
+    "price": 433,
+    "category": "Non-Fiction",
+    "stock": 28,
+    "imageUrl": "https://covers.openlibrary.org/b/id/13282906-L.jpg"
+  },
+  {
+    "name": "Анна Каренина",
+    "description": "A highly recommended Non-Fiction book.",
+    "price": 707,
+    "category": "Non-Fiction",
+    "stock": 11,
+    "imageUrl": "https://covers.openlibrary.org/b/id/2560652-L.jpg"
+  },
+  {
+    "name": "The Yellow Wallpaper",
+    "description": "A highly recommended Non-Fiction book.",
+    "price": 1307,
+    "category": "Non-Fiction",
+    "stock": 20,
+    "imageUrl": "https://covers.openlibrary.org/b/id/652029-L.jpg"
+  },
+  {
+    "name": "The Hound of the Baskervilles",
+    "description": "A highly recommended Non-Fiction book.",
+    "price": 766,
+    "category": "Non-Fiction",
+    "stock": 10,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8063264-L.jpg"
+  },
+  {
+    "name": "A Modern Utopia",
+    "description": "A highly recommended Science book.",
+    "price": 709,
+    "category": "Science",
+    "stock": 13,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8232021-L.jpg"
+  },
+  {
+    "name": "On the Beach",
+    "description": "A highly recommended Science book.",
+    "price": 1261,
+    "category": "Science",
+    "stock": 12,
+    "imageUrl": "https://covers.openlibrary.org/b/id/997896-L.jpg"
+  },
+  {
+    "name": "The book of the damned",
+    "description": "A highly recommended Science book.",
+    "price": 1336,
+    "category": "Science",
+    "stock": 27,
+    "imageUrl": "https://covers.openlibrary.org/b/id/825884-L.jpg"
+  },
+  {
+    "name": "Dell'Arte della Guerra",
+    "description": "A highly recommended Science book.",
+    "price": 589,
+    "category": "Science",
+    "stock": 35,
+    "imageUrl": "https://covers.openlibrary.org/b/id/5229470-L.jpg"
+  },
+  {
+    "name": "2001",
+    "description": "A highly recommended Science book.",
+    "price": 315,
+    "category": "Science",
+    "stock": 27,
+    "imageUrl": "https://covers.openlibrary.org/b/id/11344400-L.jpg"
+  },
+  {
+    "name": "The Martian Chronicles",
+    "description": "A highly recommended Science book.",
+    "price": 1299,
+    "category": "Science",
+    "stock": 20,
+    "imageUrl": "https://covers.openlibrary.org/b/id/9346537-L.jpg"
+  },
+  {
+    "name": "The Kybalion",
+    "description": "A highly recommended Science book.",
+    "price": 1303,
+    "category": "Science",
+    "stock": 15,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8801364-L.jpg"
+  },
+  {
+    "name": "The food of the gods and how it came to earth",
+    "description": "A highly recommended Science book.",
+    "price": 1308,
+    "category": "Science",
+    "stock": 48,
+    "imageUrl": "https://covers.openlibrary.org/b/id/314687-L.jpg"
+  },
+  {
+    "name": "Principles of Political Economy",
+    "description": "A highly recommended Science book.",
+    "price": 1057,
+    "category": "Science",
+    "stock": 26,
+    "imageUrl": "https://covers.openlibrary.org/b/id/862387-L.jpg"
+  },
+  {
+    "name": "Principles of Anatomy and Physiology",
+    "description": "A highly recommended Science book.",
+    "price": 870,
+    "category": "Science",
+    "stock": 40,
+    "imageUrl": "https://covers.openlibrary.org/b/id/3810109-L.jpg"
+  },
+  {
+    "name": "R.U.R. and The insect play",
+    "description": "A highly recommended Technology book.",
+    "price": 412,
+    "category": "Technology",
+    "stock": 16,
+    "imageUrl": "https://covers.openlibrary.org/b/id/4291026-L.jpg"
+  },
+  {
+    "name": "NASA/DoD aerospace knowledge diffusion research project",
+    "description": "A highly recommended Technology book.",
+    "price": 353,
+    "category": "Technology",
+    "stock": 22,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8936636-L.jpg"
+  },
+  {
+    "name": "When the Sleeper Awakes",
+    "description": "A highly recommended Technology book.",
+    "price": 1161,
+    "category": "Technology",
+    "stock": 50,
+    "imageUrl": "https://covers.openlibrary.org/b/id/574886-L.jpg"
+  },
+  {
+    "name": "The Art of War",
+    "description": "A highly recommended Technology book.",
+    "price": 543,
+    "category": "Technology",
+    "stock": 28,
+    "imageUrl": "https://covers.openlibrary.org/b/id/4849549-L.jpg"
+  },
+  {
+    "name": "Het Achterhuis",
+    "description": "A highly recommended Technology book.",
+    "price": 1489,
+    "category": "Technology",
+    "stock": 13,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8584021-L.jpg"
+  },
+  {
+    "name": "Frankenstein or The Modern Prometheus",
+    "description": "A highly recommended Technology book.",
+    "price": 355,
+    "category": "Technology",
+    "stock": 50,
+    "imageUrl": "https://covers.openlibrary.org/b/id/12356249-L.jpg"
+  },
+  {
+    "name": "Management information systems",
+    "description": "A highly recommended Technology book.",
+    "price": 789,
+    "category": "Technology",
+    "stock": 15,
+    "imageUrl": "https://covers.openlibrary.org/b/id/1104118-L.jpg"
+  },
+  {
+    "name": "Jurassic Park",
+    "description": "A highly recommended Technology book.",
+    "price": 528,
+    "category": "Technology",
+    "stock": 34,
+    "imageUrl": "https://covers.openlibrary.org/b/id/12882940-L.jpg"
+  },
+  {
+    "name": "Leonardo",
+    "description": "A highly recommended Technology book.",
+    "price": 1222,
+    "category": "Technology",
+    "stock": 25,
+    "imageUrl": "https://covers.openlibrary.org/b/id/919361-L.jpg"
+  },
+  {
+    "name": "Digital Fortress",
+    "description": "A highly recommended Technology book.",
+    "price": 1200,
+    "category": "Technology",
+    "stock": 11,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8396115-L.jpg"
+  },
+  {
+    "name": "The Story of Philosophy",
+    "description": "A highly recommended History book.",
+    "price": 1259,
+    "category": "History",
+    "stock": 32,
+    "imageUrl": "https://covers.openlibrary.org/b/id/405360-L.jpg"
+  },
+  {
+    "name": "A history of the English-speaking peoples",
+    "description": "A highly recommended History book.",
+    "price": 239,
+    "category": "History",
+    "stock": 41,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6602132-L.jpg"
+  },
+  {
+    "name": "The Enduring Vision",
+    "description": "A highly recommended History book.",
+    "price": 1352,
+    "category": "History",
+    "stock": 13,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8237922-L.jpg"
+  },
+  {
+    "name": "La conquête du pain",
+    "description": "A highly recommended History book.",
+    "price": 694,
+    "category": "History",
+    "stock": 36,
+    "imageUrl": "https://covers.openlibrary.org/b/id/7296134-L.jpg"
+  },
+  {
+    "name": "A Study of History",
+    "description": "A highly recommended History book.",
+    "price": 801,
+    "category": "History",
+    "stock": 39,
+    "imageUrl": "https://covers.openlibrary.org/b/id/121255-L.jpg"
+  },
+  {
+    "name": "History of the Decline and Fall of the Roman Empire Complete and Unabridged",
+    "description": "A highly recommended History book.",
+    "price": 475,
+    "category": "History",
+    "stock": 20,
+    "imageUrl": "https://covers.openlibrary.org/b/id/5978577-L.jpg"
+  },
+  {
+    "name": "The Riddle of the Sands",
+    "description": "A highly recommended History book.",
+    "price": 204,
+    "category": "History",
+    "stock": 32,
+    "imageUrl": "https://covers.openlibrary.org/b/id/2293974-L.jpg"
+  },
+  {
+    "name": "A dictionary of the English language",
+    "description": "A highly recommended History book.",
+    "price": 250,
+    "category": "History",
+    "stock": 22,
+    "imageUrl": "https://covers.openlibrary.org/b/id/5952171-L.jpg"
+  },
+  {
+    "name": "Twelve years a slave",
+    "description": "A highly recommended History book.",
+    "price": 1188,
+    "category": "History",
+    "stock": 39,
+    "imageUrl": "https://covers.openlibrary.org/b/id/14856045-L.jpg"
+  },
+  {
+    "name": "History",
+    "description": "A highly recommended History book.",
+    "price": 1050,
+    "category": "History",
+    "stock": 33,
+    "imageUrl": "https://covers.openlibrary.org/b/id/9829028-L.jpg"
+  },
+  {
+    "name": "The life of Olaudah Equiano, or Gustavus Vassa, the African",
+    "description": "A highly recommended Biography book.",
+    "price": 469,
+    "category": "Biography",
+    "stock": 12,
+    "imageUrl": "https://covers.openlibrary.org/b/id/2074044-L.jpg"
+  },
+  {
+    "name": "Autobiography of a Yogi",
+    "description": "A highly recommended Biography book.",
+    "price": 1328,
+    "category": "Biography",
+    "stock": 37,
+    "imageUrl": "https://covers.openlibrary.org/b/id/805448-L.jpg"
+  },
+  {
+    "name": "Narrative of the life of Frederick Douglass",
+    "description": "A highly recommended Biography book.",
+    "price": 1052,
+    "category": "Biography",
+    "stock": 22,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8247724-L.jpg"
+  },
+  {
+    "name": "Les confessions",
+    "description": "A highly recommended Biography book.",
+    "price": 582,
+    "category": "Biography",
+    "stock": 35,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6371045-L.jpg"
+  },
+  {
+    "name": "The Story of Philosophy",
+    "description": "A highly recommended Biography book.",
+    "price": 1099,
+    "category": "Biography",
+    "stock": 45,
+    "imageUrl": "https://covers.openlibrary.org/b/id/405360-L.jpg"
+  },
+  {
+    "name": "Lives",
+    "description": "A highly recommended Biography book.",
+    "price": 1091,
+    "category": "Biography",
+    "stock": 39,
+    "imageUrl": "https://covers.openlibrary.org/b/id/10679669-L.jpg"
+  },
+  {
+    "name": "Terre des hommes",
+    "description": "A highly recommended Biography book.",
+    "price": 668,
+    "category": "Biography",
+    "stock": 40,
+    "imageUrl": "https://covers.openlibrary.org/b/id/967072-L.jpg"
+  },
+  {
+    "name": "American notes",
+    "description": "A highly recommended Biography book.",
+    "price": 537,
+    "category": "Biography",
+    "stock": 18,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8236357-L.jpg"
+  },
+  {
+    "name": "Incidents in the Life of a Slave Girl",
+    "description": "A highly recommended Biography book.",
+    "price": 625,
+    "category": "Biography",
+    "stock": 19,
+    "imageUrl": "https://covers.openlibrary.org/b/id/411542-L.jpg"
+  },
+  {
+    "name": "An autobiography",
+    "description": "A highly recommended Biography book.",
+    "price": 475,
+    "category": "Biography",
+    "stock": 21,
+    "imageUrl": "https://covers.openlibrary.org/b/id/108086-L.jpg"
+  },
+  {
+    "name": "The Art of Public Speaking",
+    "description": "A highly recommended Self-Help book.",
+    "price": 880,
+    "category": "Self-Help",
+    "stock": 40,
+    "imageUrl": "https://covers.openlibrary.org/b/id/2978374-L.jpg"
+  },
+  {
+    "name": "How to live on 24 hours a day",
+    "description": "A highly recommended Self-Help book.",
+    "price": 479,
+    "category": "Self-Help",
+    "stock": 10,
+    "imageUrl": "https://covers.openlibrary.org/b/id/1760143-L.jpg"
+  },
+  {
+    "name": "The art of money getting, or, Golden rules for money getting",
+    "description": "A highly recommended Self-Help book.",
+    "price": 1239,
+    "category": "Self-Help",
+    "stock": 34,
+    "imageUrl": "https://covers.openlibrary.org/b/id/756095-L.jpg"
+  },
+  {
+    "name": "The master key system in twenty-four parts with questionnaire and glossary",
+    "description": "A highly recommended Self-Help book.",
+    "price": 383,
+    "category": "Self-Help",
+    "stock": 12,
+    "imageUrl": "https://covers.openlibrary.org/b/id/7308093-L.jpg"
+  },
+  {
+    "name": "As a man thinketh",
+    "description": "A highly recommended Self-Help book.",
+    "price": 1203,
+    "category": "Self-Help",
+    "stock": 12,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6268048-L.jpg"
+  },
+  {
+    "name": "The Power of Your Subconscious Mind",
+    "description": "A highly recommended Self-Help book.",
+    "price": 1377,
+    "category": "Self-Help",
+    "stock": 41,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6553019-L.jpg"
+  },
+  {
+    "name": "The science of getting rich, or, financial success through creative thought",
+    "description": "A highly recommended Self-Help book.",
+    "price": 1080,
+    "category": "Self-Help",
+    "stock": 44,
+    "imageUrl": "https://covers.openlibrary.org/b/id/854989-L.jpg"
+  },
+  {
+    "name": "Think and Grow Rich",
+    "description": "A highly recommended Self-Help book.",
+    "price": 1408,
+    "category": "Self-Help",
+    "stock": 38,
+    "imageUrl": "https://covers.openlibrary.org/b/id/14542536-L.jpg"
+  },
+  {
+    "name": "How to Win Friends and Influence People",
+    "description": "A highly recommended Self-Help book.",
+    "price": 420,
+    "category": "Self-Help",
+    "stock": 50,
+    "imageUrl": "https://covers.openlibrary.org/b/id/13314878-L.jpg"
+  },
+  {
+    "name": "The Richest Man in Babylon",
+    "description": "A highly recommended Self-Help book.",
+    "price": 1054,
+    "category": "Self-Help",
+    "stock": 45,
+    "imageUrl": "https://covers.openlibrary.org/b/id/10491331-L.jpg"
+  },
+  {
+    "name": "Jamaica Inn",
+    "description": "A highly recommended Romance book.",
+    "price": 1499,
+    "category": "Romance",
+    "stock": 22,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8765960-L.jpg"
+  },
+  {
+    "name": "The blue castle",
+    "description": "A highly recommended Romance book.",
+    "price": 378,
+    "category": "Romance",
+    "stock": 48,
+    "imageUrl": "https://covers.openlibrary.org/b/id/14640067-L.jpg"
+  },
+  {
+    "name": "The Age of Fable",
+    "description": "A highly recommended Romance book.",
+    "price": 909,
+    "category": "Romance",
+    "stock": 12,
+    "imageUrl": "https://covers.openlibrary.org/b/id/419378-L.jpg"
+  },
+  {
+    "name": "Memórias póstumas de Brás Cubas",
+    "description": "A highly recommended Romance book.",
+    "price": 302,
+    "category": "Romance",
+    "stock": 37,
+    "imageUrl": "https://covers.openlibrary.org/b/id/123152-L.jpg"
+  },
+  {
+    "name": "Far from the Madding Crowd",
+    "description": "A highly recommended Romance book.",
+    "price": 331,
+    "category": "Romance",
+    "stock": 47,
+    "imageUrl": "https://covers.openlibrary.org/b/id/902038-L.jpg"
+  },
+  {
+    "name": "Le Morte d'Arthur",
+    "description": "A highly recommended Romance book.",
+    "price": 1440,
+    "category": "Romance",
+    "stock": 30,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8231834-L.jpg"
+  },
+  {
+    "name": "El amor en los tiempos del cólera",
+    "description": "A highly recommended Romance book.",
+    "price": 1017,
+    "category": "Romance",
+    "stock": 24,
+    "imageUrl": "https://covers.openlibrary.org/b/id/10096404-L.jpg"
+  },
+  {
+    "name": "Le rouge et le noir",
+    "description": "A highly recommended Romance book.",
+    "price": 1174,
+    "category": "Romance",
+    "stock": 28,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8231413-L.jpg"
+  },
+  {
+    "name": "An American Tragedy",
+    "description": "A highly recommended Romance book.",
+    "price": 557,
+    "category": "Romance",
+    "stock": 35,
+    "imageUrl": "https://covers.openlibrary.org/b/id/12728401-L.jpg"
+  },
+  {
+    "name": "Du côté de chez Swann",
+    "description": "A highly recommended Romance book.",
+    "price": 1073,
+    "category": "Romance",
+    "stock": 10,
+    "imageUrl": "https://covers.openlibrary.org/b/id/11967344-L.jpg"
+  },
+  {
+    "name": "The Secret of Chimneys",
+    "description": "A highly recommended Mystery book.",
+    "price": 1055,
+    "category": "Mystery",
+    "stock": 43,
+    "imageUrl": "https://covers.openlibrary.org/b/id/12996574-L.jpg"
+  },
+  {
+    "name": "The Man in the Brown Suit",
+    "description": "A highly recommended Mystery book.",
+    "price": 832,
+    "category": "Mystery",
+    "stock": 47,
+    "imageUrl": "https://covers.openlibrary.org/b/id/11153508-L.jpg"
+  },
+  {
+    "name": "Nemesis",
+    "description": "A highly recommended Mystery book.",
+    "price": 1200,
+    "category": "Mystery",
+    "stock": 46,
+    "imageUrl": "https://covers.openlibrary.org/b/id/10249139-L.jpg"
+  },
+  {
+    "name": "At Bertram's Hotel",
+    "description": "A highly recommended Mystery book.",
+    "price": 530,
+    "category": "Mystery",
+    "stock": 41,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6379981-L.jpg"
+  },
+  {
+    "name": "They Do It with Mirrors",
+    "description": "A highly recommended Mystery book.",
+    "price": 514,
+    "category": "Mystery",
+    "stock": 30,
+    "imageUrl": "https://covers.openlibrary.org/b/id/10249524-L.jpg"
+  },
+  {
+    "name": "4:50 from Paddington",
+    "description": "A highly recommended Mystery book.",
+    "price": 1114,
+    "category": "Mystery",
+    "stock": 31,
+    "imageUrl": "https://covers.openlibrary.org/b/id/13151352-L.jpg"
+  },
+  {
+    "name": "The Mirror Crack'd from Side to Side",
+    "description": "A highly recommended Mystery book.",
+    "price": 1038,
+    "category": "Mystery",
+    "stock": 12,
+    "imageUrl": "https://covers.openlibrary.org/b/id/10561150-L.jpg"
+  },
+  {
+    "name": "Hallowe'en Party",
+    "description": "A highly recommended Mystery book.",
+    "price": 311,
+    "category": "Mystery",
+    "stock": 18,
+    "imageUrl": "https://covers.openlibrary.org/b/id/11160095-L.jpg"
+  },
+  {
+    "name": "The Big Four",
+    "description": "A highly recommended Mystery book.",
+    "price": 298,
+    "category": "Mystery",
+    "stock": 35,
+    "imageUrl": "https://covers.openlibrary.org/b/id/12996529-L.jpg"
+  },
+  {
+    "name": "Ordeal by Innocence",
+    "description": "A highly recommended Mystery book.",
+    "price": 268,
+    "category": "Mystery",
+    "stock": 36,
+    "imageUrl": "https://covers.openlibrary.org/b/id/14586345-L.jpg"
+  },
+  {
+    "name": "The Pillars of the Earth",
+    "description": "A highly recommended Thriller book.",
+    "price": 1410,
+    "category": "Thriller",
+    "stock": 37,
+    "imageUrl": "https://covers.openlibrary.org/b/id/9269909-L.jpg"
+  },
+  {
+    "name": "The Da Vinci Code",
+    "description": "A highly recommended Thriller book.",
+    "price": 866,
+    "category": "Thriller",
+    "stock": 39,
+    "imageUrl": "https://covers.openlibrary.org/b/id/9255229-L.jpg"
+  },
+  {
+    "name": "The Secret of Chimneys",
+    "description": "A highly recommended Thriller book.",
+    "price": 699,
+    "category": "Thriller",
+    "stock": 48,
+    "imageUrl": "https://covers.openlibrary.org/b/id/12996574-L.jpg"
+  },
+  {
+    "name": "Brood of the Witch-Queen",
+    "description": "A highly recommended Thriller book.",
+    "price": 1099,
+    "category": "Thriller",
+    "stock": 35,
+    "imageUrl": "https://covers.openlibrary.org/b/id/2011286-L.jpg"
+  },
+  {
+    "name": "The Mysterious Affair at Styles",
+    "description": "A highly recommended Thriller book.",
+    "price": 935,
+    "category": "Thriller",
+    "stock": 21,
+    "imageUrl": "https://covers.openlibrary.org/b/id/13699667-L.jpg"
+  },
+  {
+    "name": "The Black Cat",
+    "description": "A highly recommended Thriller book.",
+    "price": 718,
+    "category": "Thriller",
+    "stock": 48,
+    "imageUrl": "https://covers.openlibrary.org/b/id/11709016-L.jpg"
+  },
+  {
+    "name": "Angels & Demons",
+    "description": "A highly recommended Thriller book.",
+    "price": 1175,
+    "category": "Thriller",
+    "stock": 11,
+    "imageUrl": "https://covers.openlibrary.org/b/id/11408459-L.jpg"
+  },
+  {
+    "name": "The Lost Symbol",
+    "description": "A highly recommended Thriller book.",
+    "price": 1385,
+    "category": "Thriller",
+    "stock": 11,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8373389-L.jpg"
+  },
+  {
+    "name": "The Jewel of Seven Stars",
+    "description": "A highly recommended Thriller book.",
+    "price": 924,
+    "category": "Thriller",
+    "stock": 19,
+    "imageUrl": "https://covers.openlibrary.org/b/id/2760301-L.jpg"
+  },
+  {
+    "name": "The Thirty-Nine Steps",
+    "description": "A highly recommended Thriller book.",
+    "price": 530,
+    "category": "Thriller",
+    "stock": 17,
+    "imageUrl": "https://covers.openlibrary.org/b/id/93020-L.jpg"
+  },
+  {
+    "name": "Phantastes",
+    "description": "A highly recommended Fantasy book.",
+    "price": 1407,
+    "category": "Fantasy",
+    "stock": 47,
+    "imageUrl": "https://covers.openlibrary.org/b/id/14358814-L.jpg"
+  },
+  {
+    "name": "The Road to Oz",
+    "description": "A highly recommended Fantasy book.",
+    "price": 919,
+    "category": "Fantasy",
+    "stock": 35,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8243922-L.jpg"
+  },
+  {
+    "name": "The Sea Fairies",
+    "description": "A highly recommended Fantasy book.",
+    "price": 1153,
+    "category": "Fantasy",
+    "stock": 33,
+    "imageUrl": "https://covers.openlibrary.org/b/id/1814237-L.jpg"
+  },
+  {
+    "name": "The Silmarillion",
+    "description": "A highly recommended Fantasy book.",
+    "price": 252,
+    "category": "Fantasy",
+    "stock": 19,
+    "imageUrl": "https://covers.openlibrary.org/b/id/14627042-L.jpg"
+  },
+  {
+    "name": "The Last Battle",
+    "description": "A highly recommended Fantasy book.",
+    "price": 335,
+    "category": "Fantasy",
+    "stock": 49,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6529226-L.jpg"
+  },
+  {
+    "name": "Lilith",
+    "description": "A highly recommended Fantasy book.",
+    "price": 1171,
+    "category": "Fantasy",
+    "stock": 30,
+    "imageUrl": "https://covers.openlibrary.org/b/id/14364546-L.jpg"
+  },
+  {
+    "name": "Dorothy and the Wizard in Oz",
+    "description": "A highly recommended Fantasy book.",
+    "price": 1176,
+    "category": "Fantasy",
+    "stock": 33,
+    "imageUrl": "https://covers.openlibrary.org/b/id/12648659-L.jpg"
+  },
+  {
+    "name": "The Story of the Amulet",
+    "description": "A highly recommended Fantasy book.",
+    "price": 1445,
+    "category": "Fantasy",
+    "stock": 23,
+    "imageUrl": "https://covers.openlibrary.org/b/id/13241470-L.jpg"
+  },
+  {
+    "name": "Brood of the Witch-Queen",
+    "description": "A highly recommended Fantasy book.",
+    "price": 1241,
+    "category": "Fantasy",
+    "stock": 18,
+    "imageUrl": "https://covers.openlibrary.org/b/id/2011286-L.jpg"
+  },
+  {
+    "name": "Tik-Tok of Oz",
+    "description": "A highly recommended Fantasy book.",
+    "price": 294,
+    "category": "Fantasy",
+    "stock": 18,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8243277-L.jpg"
+  },
+  {
+    "name": "The Power of Darkness",
+    "description": "A highly recommended Horror book.",
+    "price": 804,
+    "category": "Horror",
+    "stock": 41,
+    "imageUrl": "https://covers.openlibrary.org/b/id/882715-L.jpg"
+  },
+  {
+    "name": "The Vampyre",
+    "description": "A highly recommended Horror book.",
+    "price": 368,
+    "category": "Horror",
+    "stock": 30,
+    "imageUrl": "https://covers.openlibrary.org/b/id/4871002-L.jpg"
+  },
+  {
+    "name": "The Great God Pan",
+    "description": "A highly recommended Horror book.",
+    "price": 1361,
+    "category": "Horror",
+    "stock": 12,
+    "imageUrl": "https://covers.openlibrary.org/b/id/921610-L.jpg"
+  },
+  {
+    "name": "The Fall of the House of Usher",
+    "description": "A highly recommended Horror book.",
+    "price": 1092,
+    "category": "Horror",
+    "stock": 15,
+    "imageUrl": "https://covers.openlibrary.org/b/id/11838138-L.jpg"
+  },
+  {
+    "name": "Brood of the Witch-Queen",
+    "description": "A highly recommended Horror book.",
+    "price": 512,
+    "category": "Horror",
+    "stock": 15,
+    "imageUrl": "https://covers.openlibrary.org/b/id/2011286-L.jpg"
+  },
+  {
+    "name": "Misery",
+    "description": "A highly recommended Horror book.",
+    "price": 1225,
+    "category": "Horror",
+    "stock": 46,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8259296-L.jpg"
+  },
+  {
+    "name": "Carrie",
+    "description": "A highly recommended Horror book.",
+    "price": 1439,
+    "category": "Horror",
+    "stock": 37,
+    "imageUrl": "https://covers.openlibrary.org/b/id/9256043-L.jpg"
+  },
+  {
+    "name": "The Black Cat",
+    "description": "A highly recommended Horror book.",
+    "price": 1177,
+    "category": "Horror",
+    "stock": 26,
+    "imageUrl": "https://covers.openlibrary.org/b/id/11709016-L.jpg"
+  },
+  {
+    "name": "The King in Yellow",
+    "description": "A highly recommended Horror book.",
+    "price": 281,
+    "category": "Horror",
+    "stock": 38,
+    "imageUrl": "https://covers.openlibrary.org/b/id/4752788-L.jpg"
+  },
+  {
+    "name": "Carmilla",
+    "description": "A highly recommended Horror book.",
+    "price": 1403,
+    "category": "Horror",
+    "stock": 17,
+    "imageUrl": "https://covers.openlibrary.org/b/id/973851-L.jpg"
+  },
+  {
+    "name": "The Book of Dragons",
+    "description": "A highly recommended Children book.",
+    "price": 842,
+    "category": "Children",
+    "stock": 49,
+    "imageUrl": "https://covers.openlibrary.org/b/id/4342323-L.jpg"
+  },
+  {
+    "name": "Fantastic Mr Fox",
+    "description": "A highly recommended Children book.",
+    "price": 302,
+    "category": "Children",
+    "stock": 11,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6498519-L.jpg"
+  },
+  {
+    "name": "The Sea Fairies",
+    "description": "A highly recommended Children book.",
+    "price": 1261,
+    "category": "Children",
+    "stock": 25,
+    "imageUrl": "https://covers.openlibrary.org/b/id/1814237-L.jpg"
+  },
+  {
+    "name": "James and the Giant Peach",
+    "description": "A highly recommended Children book.",
+    "price": 958,
+    "category": "Children",
+    "stock": 16,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8252454-L.jpg"
+  },
+  {
+    "name": "The Classic Tale of the Velveteen Rabbit",
+    "description": "A highly recommended Children book.",
+    "price": 989,
+    "category": "Children",
+    "stock": 16,
+    "imageUrl": "https://covers.openlibrary.org/b/id/11738076-L.jpg"
+  },
+  {
+    "name": "The Twits",
+    "description": "A highly recommended Children book.",
+    "price": 829,
+    "category": "Children",
+    "stock": 24,
+    "imageUrl": "https://covers.openlibrary.org/b/id/14838233-L.jpg"
+  },
+  {
+    "name": "Ozma of Oz",
+    "description": "A highly recommended Children book.",
+    "price": 1151,
+    "category": "Children",
+    "stock": 37,
+    "imageUrl": "https://covers.openlibrary.org/b/id/12648657-L.jpg"
+  },
+  {
+    "name": "The Ugly Duckling",
+    "description": "A highly recommended Children book.",
+    "price": 234,
+    "category": "Children",
+    "stock": 33,
+    "imageUrl": "https://covers.openlibrary.org/b/id/446546-L.jpg"
+  },
+  {
+    "name": "Guess How Much I Love You",
+    "description": "A highly recommended Children book.",
+    "price": 333,
+    "category": "Children",
+    "stock": 18,
+    "imageUrl": "https://covers.openlibrary.org/b/id/13282906-L.jpg"
+  },
+  {
+    "name": "A Child's Garden of Verses",
+    "description": "A highly recommended Children book.",
+    "price": 1380,
+    "category": "Children",
+    "stock": 42,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8777530-L.jpg"
+  },
+  {
+    "name": "Up from Slavery",
+    "description": "A highly recommended Educational book.",
+    "price": 590,
+    "category": "Educational",
+    "stock": 28,
+    "imageUrl": "https://covers.openlibrary.org/b/id/119317-L.jpg"
+  },
+  {
+    "name": "A Vindication of Rights of Woman",
+    "description": "A highly recommended Educational book.",
+    "price": 650,
+    "category": "Educational",
+    "stock": 11,
+    "imageUrl": "https://covers.openlibrary.org/b/id/675852-L.jpg"
+  },
+  {
+    "name": "Отцы и дети",
+    "description": "A highly recommended Educational book.",
+    "price": 988,
+    "category": "Educational",
+    "stock": 48,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8236420-L.jpg"
+  },
+  {
+    "name": "Hard Times",
+    "description": "A highly recommended Educational book.",
+    "price": 784,
+    "category": "Educational",
+    "stock": 46,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8236916-L.jpg"
+  },
+  {
+    "name": "Moralia",
+    "description": "A highly recommended Educational book.",
+    "price": 1370,
+    "category": "Educational",
+    "stock": 28,
+    "imageUrl": "https://covers.openlibrary.org/b/id/5788251-L.jpg"
+  },
+  {
+    "name": "The Power of Your Subconscious Mind",
+    "description": "A highly recommended Educational book.",
+    "price": 1388,
+    "category": "Educational",
+    "stock": 45,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6553019-L.jpg"
+  },
+  {
+    "name": "कामसूत्र",
+    "description": "A highly recommended Educational book.",
+    "price": 265,
+    "category": "Educational",
+    "stock": 29,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8003766-L.jpg"
+  },
+  {
+    "name": "Schachnovelle",
+    "description": "A highly recommended Educational book.",
+    "price": 1500,
+    "category": "Educational",
+    "stock": 38,
+    "imageUrl": "https://covers.openlibrary.org/b/id/5548285-L.jpg"
+  },
+  {
+    "name": "πολιτεία",
+    "description": "A highly recommended Educational book.",
+    "price": 305,
+    "category": "Educational",
+    "stock": 19,
+    "imageUrl": "https://covers.openlibrary.org/b/id/14418448-L.jpg"
+  },
+  {
+    "name": "The Richest Man in Babylon",
+    "description": "A highly recommended Educational book.",
+    "price": 891,
+    "category": "Educational",
+    "stock": 34,
+    "imageUrl": "https://covers.openlibrary.org/b/id/10491331-L.jpg"
+  },
+  {
+    "name": "The Giver",
+    "description": "A highly recommended Comics book.",
+    "price": 1001,
+    "category": "Comics",
+    "stock": 26,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8352502-L.jpg"
+  },
+  {
+    "name": "The Jungle",
+    "description": "A highly recommended Comics book.",
+    "price": 469,
+    "category": "Comics",
+    "stock": 10,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8231790-L.jpg"
+  },
+  {
+    "name": "The Good Earth",
+    "description": "A highly recommended Comics book.",
+    "price": 1388,
+    "category": "Comics",
+    "stock": 40,
+    "imageUrl": "https://covers.openlibrary.org/b/id/2626823-L.jpg"
+  },
+  {
+    "name": "Dorothy and the Wizard in Oz",
+    "description": "A highly recommended Comics book.",
+    "price": 1463,
+    "category": "Comics",
+    "stock": 21,
+    "imageUrl": "https://covers.openlibrary.org/b/id/12648659-L.jpg"
+  },
+  {
+    "name": "The Marvelous Land of Oz",
+    "description": "A highly recommended Comics book.",
+    "price": 969,
+    "category": "Comics",
+    "stock": 27,
+    "imageUrl": "https://covers.openlibrary.org/b/id/12648656-L.jpg"
+  },
+  {
+    "name": "The Time Machine",
+    "description": "A highly recommended Comics book.",
+    "price": 496,
+    "category": "Comics",
+    "stock": 47,
+    "imageUrl": "https://covers.openlibrary.org/b/id/9009316-L.jpg"
+  },
+  {
+    "name": "Murder on the Links",
+    "description": "A highly recommended Comics book.",
+    "price": 482,
+    "category": "Comics",
+    "stock": 17,
+    "imageUrl": "https://covers.openlibrary.org/b/id/14582832-L.jpg"
+  },
+  {
+    "name": "The Invisible Man",
+    "description": "A highly recommended Comics book.",
+    "price": 723,
+    "category": "Comics",
+    "stock": 42,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6419199-L.jpg"
+  },
+  {
+    "name": "The Legend of Sleepy Hollow",
+    "description": "A highly recommended Comics book.",
+    "price": 1362,
+    "category": "Comics",
+    "stock": 46,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8243083-L.jpg"
+  },
+  {
+    "name": "Murder in Mesopotamia",
+    "description": "A highly recommended Comics book.",
+    "price": 1281,
+    "category": "Comics",
+    "stock": 43,
+    "imageUrl": "https://covers.openlibrary.org/b/id/12855104-L.jpg"
+  },
+  {
+    "name": "The Odyssey",
+    "description": "A highly recommended Poetry book.",
+    "price": 1284,
+    "category": "Poetry",
+    "stock": 10,
+    "imageUrl": "https://covers.openlibrary.org/b/id/12474938-L.jpg"
+  },
+  {
+    "name": "The Raven",
+    "description": "A highly recommended Poetry book.",
+    "price": 565,
+    "category": "Poetry",
+    "stock": 15,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8246077-L.jpg"
+  },
+  {
+    "name": "Veinte poemas de amor y una canción desesperada",
+    "description": "A highly recommended Poetry book.",
+    "price": 232,
+    "category": "Poetry",
+    "stock": 34,
+    "imageUrl": "https://covers.openlibrary.org/b/id/747596-L.jpg"
+  },
+  {
+    "name": "A Child's Garden of Verses",
+    "description": "A highly recommended Poetry book.",
+    "price": 346,
+    "category": "Poetry",
+    "stock": 36,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8777530-L.jpg"
+  },
+  {
+    "name": "Poems",
+    "description": "A highly recommended Poetry book.",
+    "price": 1384,
+    "category": "Poetry",
+    "stock": 21,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6968826-L.jpg"
+  },
+  {
+    "name": "Poems",
+    "description": "A highly recommended Poetry book.",
+    "price": 1462,
+    "category": "Poetry",
+    "stock": 23,
+    "imageUrl": "https://covers.openlibrary.org/b/id/102874-L.jpg"
+  },
+  {
+    "name": "Meghadūta",
+    "description": "A highly recommended Poetry book.",
+    "price": 459,
+    "category": "Poetry",
+    "stock": 32,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8243134-L.jpg"
+  },
+  {
+    "name": "Poems",
+    "description": "A highly recommended Poetry book.",
+    "price": 1311,
+    "category": "Poetry",
+    "stock": 35,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8236962-L.jpg"
+  },
+  {
+    "name": "Gitanjali (song offerings)",
+    "description": "A highly recommended Poetry book.",
+    "price": 614,
+    "category": "Poetry",
+    "stock": 42,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8246100-L.jpg"
+  },
+  {
+    "name": "Faerie queene",
+    "description": "A highly recommended Poetry book.",
+    "price": 722,
+    "category": "Poetry",
+    "stock": 23,
+    "imageUrl": "https://covers.openlibrary.org/b/id/5804540-L.jpg"
+  },
+  {
+    "name": "The Story of Philosophy",
+    "description": "A highly recommended Philosophy book.",
+    "price": 804,
+    "category": "Philosophy",
+    "stock": 48,
+    "imageUrl": "https://covers.openlibrary.org/b/id/405360-L.jpg"
+  },
+  {
+    "name": "The Problems of Philosophy",
+    "description": "A highly recommended Philosophy book.",
+    "price": 1205,
+    "category": "Philosophy",
+    "stock": 46,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6947403-L.jpg"
+  },
+  {
+    "name": "Jenseits von Gut und Böse",
+    "description": "A highly recommended Philosophy book.",
+    "price": 1163,
+    "category": "Philosophy",
+    "stock": 32,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8245356-L.jpg"
+  },
+  {
+    "name": "The guide of the perplexed of Maimonides",
+    "description": "A highly recommended Philosophy book.",
+    "price": 1257,
+    "category": "Philosophy",
+    "stock": 45,
+    "imageUrl": "https://covers.openlibrary.org/b/id/2292521-L.jpg"
+  },
+  {
+    "name": "Ἀπολογία Σωκράτους",
+    "description": "A highly recommended Philosophy book.",
+    "price": 482,
+    "category": "Philosophy",
+    "stock": 17,
+    "imageUrl": "https://covers.openlibrary.org/b/id/14407561-L.jpg"
+  },
+  {
+    "name": "Tractatus logico-philosophicus",
+    "description": "A highly recommended Philosophy book.",
+    "price": 917,
+    "category": "Philosophy",
+    "stock": 48,
+    "imageUrl": "https://covers.openlibrary.org/b/id/5415771-L.jpg"
+  },
+  {
+    "name": "Discours de la méthode",
+    "description": "A highly recommended Philosophy book.",
+    "price": 1213,
+    "category": "Philosophy",
+    "stock": 18,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8236442-L.jpg"
+  },
+  {
+    "name": "Tao te Ching",
+    "description": "A highly recommended Philosophy book.",
+    "price": 835,
+    "category": "Philosophy",
+    "stock": 44,
+    "imageUrl": "https://covers.openlibrary.org/b/id/662232-L.jpg"
+  },
+  {
+    "name": "The Kybalion",
+    "description": "A highly recommended Philosophy book.",
+    "price": 314,
+    "category": "Philosophy",
+    "stock": 25,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8801364-L.jpg"
+  },
+  {
+    "name": "A Study of History",
+    "description": "A highly recommended Philosophy book.",
+    "price": 1179,
+    "category": "Philosophy",
+    "stock": 49,
+    "imageUrl": "https://covers.openlibrary.org/b/id/121255-L.jpg"
+  },
+  {
+    "name": "The Varieties of Religious Experience",
+    "description": "A highly recommended Religion book.",
+    "price": 627,
+    "category": "Religion",
+    "stock": 35,
+    "imageUrl": "https://covers.openlibrary.org/b/id/2415434-L.jpg"
+  },
+  {
+    "name": "The golden bough",
+    "description": "A highly recommended Religion book.",
+    "price": 1387,
+    "category": "Religion",
+    "stock": 37,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8876695-L.jpg"
+  },
+  {
+    "name": "Orthodoxy",
+    "description": "A highly recommended Religion book.",
+    "price": 761,
+    "category": "Religion",
+    "stock": 33,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6268135-L.jpg"
+  },
+  {
+    "name": "Tao te Ching",
+    "description": "A highly recommended Religion book.",
+    "price": 1209,
+    "category": "Religion",
+    "stock": 31,
+    "imageUrl": "https://covers.openlibrary.org/b/id/662232-L.jpg"
+  },
+  {
+    "name": "The book of the damned",
+    "description": "A highly recommended Religion book.",
+    "price": 1208,
+    "category": "Religion",
+    "stock": 15,
+    "imageUrl": "https://covers.openlibrary.org/b/id/825884-L.jpg"
+  },
+  {
+    "name": "The pursuit of God",
+    "description": "A highly recommended Religion book.",
+    "price": 712,
+    "category": "Religion",
+    "stock": 24,
+    "imageUrl": "https://covers.openlibrary.org/b/id/666870-L.jpg"
+  },
+  {
+    "name": "The Man Who Knew Too Much",
+    "description": "A highly recommended Religion book.",
+    "price": 1226,
+    "category": "Religion",
+    "stock": 41,
+    "imageUrl": "https://covers.openlibrary.org/b/id/12897858-L.jpg"
+  },
+  {
+    "name": "Die protestantische Ethik und der Geist des Kapitalismus",
+    "description": "A highly recommended Religion book.",
+    "price": 781,
+    "category": "Religion",
+    "stock": 35,
+    "imageUrl": "https://covers.openlibrary.org/b/id/5381835-L.jpg"
+  },
+  {
+    "name": "Exercitia spiritualia",
+    "description": "A highly recommended Religion book.",
+    "price": 759,
+    "category": "Religion",
+    "stock": 27,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8027976-L.jpg"
+  },
+  {
+    "name": "As a man thinketh",
+    "description": "A highly recommended Religion book.",
+    "price": 355,
+    "category": "Religion",
+    "stock": 11,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6268048-L.jpg"
+  },
+  {
+    "name": "Georg Baselitz",
+    "description": "A highly recommended Art book.",
+    "price": 271,
+    "category": "Art",
+    "stock": 35,
+    "imageUrl": "https://covers.openlibrary.org/b/id/3026795-L.jpg"
+  },
+  {
+    "name": "Paul Klee",
+    "description": "A highly recommended Art book.",
+    "price": 617,
+    "category": "Art",
+    "stock": 41,
+    "imageUrl": "https://covers.openlibrary.org/b/id/13174486-L.jpg"
+  },
+  {
+    "name": "Naturalis historia",
+    "description": "A highly recommended Art book.",
+    "price": 455,
+    "category": "Art",
+    "stock": 39,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6543272-L.jpg"
+  },
+  {
+    "name": "Picasso",
+    "description": "A highly recommended Art book.",
+    "price": 323,
+    "category": "Art",
+    "stock": 13,
+    "imageUrl": "https://covers.openlibrary.org/b/id/2238306-L.jpg"
+  },
+  {
+    "name": "Vincent van Gogh",
+    "description": "A highly recommended Art book.",
+    "price": 914,
+    "category": "Art",
+    "stock": 13,
+    "imageUrl": "https://covers.openlibrary.org/b/id/4703873-L.jpg"
+  },
+  {
+    "name": "Henry Moore",
+    "description": "A highly recommended Art book.",
+    "price": 665,
+    "category": "Art",
+    "stock": 49,
+    "imageUrl": "https://covers.openlibrary.org/b/id/1604103-L.jpg"
+  },
+  {
+    "name": "Dell'Arte della Guerra",
+    "description": "A highly recommended Art book.",
+    "price": 661,
+    "category": "Art",
+    "stock": 43,
+    "imageUrl": "https://covers.openlibrary.org/b/id/5229470-L.jpg"
+  },
+  {
+    "name": "Vom Kriege",
+    "description": "A highly recommended Art book.",
+    "price": 421,
+    "category": "Art",
+    "stock": 24,
+    "imageUrl": "https://covers.openlibrary.org/b/id/9933109-L.jpg"
+  },
+  {
+    "name": "Max Ernst",
+    "description": "A highly recommended Art book.",
+    "price": 1285,
+    "category": "Art",
+    "stock": 17,
+    "imageUrl": "https://covers.openlibrary.org/b/id/7879121-L.jpg"
+  },
+  {
+    "name": "Salomé",
+    "description": "A highly recommended Art book.",
+    "price": 1421,
+    "category": "Art",
+    "stock": 43,
+    "imageUrl": "https://covers.openlibrary.org/b/id/8246115-L.jpg"
+  },
+  {
+    "name": "The art of money getting, or, Golden rules for money getting",
+    "description": "A highly recommended Business book.",
+    "price": 1321,
+    "category": "Business",
+    "stock": 47,
+    "imageUrl": "https://covers.openlibrary.org/b/id/756095-L.jpg"
+  },
+  {
+    "name": "Think and Grow Rich",
+    "description": "A highly recommended Business book.",
+    "price": 299,
+    "category": "Business",
+    "stock": 26,
+    "imageUrl": "https://covers.openlibrary.org/b/id/14542536-L.jpg"
+  },
+  {
+    "name": "As a man thinketh",
+    "description": "A highly recommended Business book.",
+    "price": 961,
+    "category": "Business",
+    "stock": 12,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6268048-L.jpg"
+  },
+  {
+    "name": "The Wealth of Nations",
+    "description": "A highly recommended Business book.",
+    "price": 277,
+    "category": "Business",
+    "stock": 19,
+    "imageUrl": "https://covers.openlibrary.org/b/id/12816911-L.jpg"
+  },
+  {
+    "name": "The Richest Man in Babylon",
+    "description": "A highly recommended Business book.",
+    "price": 852,
+    "category": "Business",
+    "stock": 34,
+    "imageUrl": "https://covers.openlibrary.org/b/id/10491331-L.jpg"
+  },
+  {
+    "name": "The master key system in twenty-four parts with questionnaire and glossary",
+    "description": "A highly recommended Business book.",
+    "price": 1282,
+    "category": "Business",
+    "stock": 44,
+    "imageUrl": "https://covers.openlibrary.org/b/id/7308093-L.jpg"
+  },
+  {
+    "name": "The Art of War",
+    "description": "A highly recommended Business book.",
+    "price": 522,
+    "category": "Business",
+    "stock": 16,
+    "imageUrl": "https://covers.openlibrary.org/b/id/4849549-L.jpg"
+  },
+  {
+    "name": "The science of getting rich, or, financial success through creative thought",
+    "description": "A highly recommended Business book.",
+    "price": 613,
+    "category": "Business",
+    "stock": 12,
+    "imageUrl": "https://covers.openlibrary.org/b/id/854989-L.jpg"
+  },
+  {
+    "name": "The Power of Your Subconscious Mind",
+    "description": "A highly recommended Business book.",
+    "price": 807,
+    "category": "Business",
+    "stock": 20,
+    "imageUrl": "https://covers.openlibrary.org/b/id/6553019-L.jpg"
+  },
+  {
+    "name": "Vom Kriege",
+    "description": "A highly recommended Business book.",
+    "price": 385,
+    "category": "Business",
+    "stock": 23,
+    "imageUrl": "https://covers.openlibrary.org/b/id/9933109-L.jpg"
+  }
+]
